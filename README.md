@@ -77,8 +77,8 @@
 - **22-Mar-2026 (Saturday):** Delivered a professional presentation on "Creative thinking" during a comprehensive power-skills training program.
 - **24-Mar-2026 (Monday):** Attended M1 mock exam and noted the reviews provided by mentors for improvement.
 - **25-Mar-2026 (Tuesday):** Understood the working of spring vs spring boot
-- **26-Mar-2026 (Wednesday):** Understoof the concept of REST API calls and REquest Handling
-- **27-Mar-2026 (Thursday):**
+- **26-Mar-2026 (Thursday):** Understoof the concept of REST API calls and REquest Handling
+- **27-Mar-2026 (Friday):**
   
 
 
