@@ -77,8 +77,26 @@
 - **22-Mar-2026 (Saturday):** Delivered a professional presentation on "Creative thinking" during a comprehensive power-skills training program.
 - **24-Mar-2026 (Monday):** Attended M1 mock exam and noted the reviews provided by mentors for improvement.
 - **25-Mar-2026 (Tuesday):** Understood the working of spring vs spring boot
-- **26-Mar-2026 (Thursday):** Understoof the concept of REST API calls and REquest Handling
-- **27-Mar-2026 (Friday):**
+- **26-Mar-2026 (Thursday):** Understood the concept of REST API calls and REquest HandlingS
+- **27-Mar-2026 (Friday):** Implemented additional use cases for Address Book Application, revised Spring Boot concepts, and worked on managing API testing flow.
+- **28-Mar-2026 (Saturday):** Attended and practiced Soft Skills Session.
+- **30-Mar-2026 (Monday):** Implemented next use cases for Hospital Management System and practiced backend flow and validations.
+- **31-Mar-2026 (Tuesday):** Started learning Spring Security and understood authentication and authorization concepts.
+- **01-Apr-2026 (Wednesday):** Started practicing Spring Security and implemented basic authentication flow.
+- **02-Apr-2026 (Thursday):** Completed Spring Security concepts and practiced securing REST APIs including JWT and authentication flow.
+- **03-Apr-2026 (Friday):** Started FundooNotes project, set up initial project structure and configurations.
+- **04-Apr-2026 (Saturday):** Attended Power Skills Session.
+- **06-Apr-2026 (Monday):** Completed UC15 of QuantityMeasurementApp and revised application concepts and testing.
+- **07-Apr-2026 (Tuesday):** Started Part 2 of FundooNotes and implemented additional APIs and backend flow.
+- **08-Apr-2026 (Wednesday):** Implemented learned concepts in Part 2 of FundooNotes and improved project flow and API handling.
+- **09-Apr-2026 (Thursday):** Learned Redis and caching concepts and implemented UC16 of QuantityMeasurementApp.
+- **10-Apr-2026 (Friday):** Practiced JMS and Redis concepts and learned proper messaging workflow including asynchronous communication.
+- **11-Apr-2026 (Saturday):** Attended Power Skills Session.
+- **13-Apr-2026 (Monday):** Learned RabbitMQ concepts and workflow and practiced messaging queue implementation.
+- **15-Apr-2026 (Wednesday):** Learned Spring Batch with Excel concepts and practiced batch processing flow.
+- **16-Apr-2026 (Thursday):** Practiced Spring Batch with Excel and started learning microservices basics.
+- **17-Apr-2026 (Friday):** Learned additional microservices concepts and revised service communication and distributed system architecture.
+- **18-Apr-2026 (Saturday):** Attended Power Skills Session.
   
 
 
