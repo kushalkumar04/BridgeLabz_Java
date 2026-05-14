@@ -97,7 +97,28 @@
 - **16-Apr-2026 (Thursday):** Practiced Spring Batch with Excel and started learning microservices basics.
 - **17-Apr-2026 (Friday):** Learned additional microservices concepts and revised service communication and distributed system architecture.
 - **18-Apr-2026 (Saturday):** Attended Power Skills Session.
-  
+- **20-Apr-2026 (Monday):** Learned Kubernetes architecture concepts including Control Plane vs Nodes, Declarative Model, and Desired State configuration.
+- **21-Apr-2026 (Tuesday):** Understood Kubernetes key primitives — Pods, Services for Stable Networking, and Deployments.
+- **22-Apr-2026 (Wednesday):** Revised and practiced Kubernetes concepts and explored container orchestration workflows.
+- **23-Apr-2026 (Thursday):** Learned Jenkins CI Pipeline (Build & Test) and understood Jenkinsfile structure and configuration.
+- **24-Apr-2026 (Friday):** Studied CI Best Practices, Pipeline Agents and Stages in Jenkins CI.
+- **25-Apr-2026 (Saturday):** Attended Power Skills Session.
+- **27-Apr-2026 (Monday):** Learned AWS Cloud Basics and Cloud Computing Architecture fundamentals.
+- **28-Apr-2026 (Tuesday):** Revised and practiced Cloud concepts and explored AWS service categories.
+- **29-Apr-2026 (Wednesday):** Understood Deployment and Service Models along with Cloud APIs.
+- **30-Apr-2026 (Thursday):** Learned about Cloud Benefits, Challenges, and Major Cloud Providers.
+- **02-May-2026 (Saturday):** Attended Power Skills Session.
+- **04-May-2026 (Monday):** Learned Cloud-Native Concepts, Hybrid Cloud approach and architecture.
+- **05-May-2026 (Tuesday):** Revised Cloud-Native and AWS Foundations concepts and explored use cases.
+- **06-May-2026 (Wednesday):** Learned AWS History and Global Infrastructure overview.
+- **07-May-2026 (Thursday):** Understood core AWS Services including EC2, S3, RDS, and EBS.
+- **08-May-2026 (Friday):** Learned IAM concepts — Users, Groups, Roles, Policies, and MFA configuration.
+- **09-May-2026 (Saturday):** Attended Power Skills Session.
+- **11-May-2026 (Monday):** Learned about Security Groups, VPC, Subnets, Route Tables, and NAT configuration in AWS.
+- **12-May-2026 (Tuesday):** Revised and practiced AWS Core Services and Security concepts.
+- **13-May-2026 (Wednesday):** Practiced AWS setup and configurations and revised the concepts learned so far.
+- **14-May-2026 (Thursday):** Revised overall AWS Core Services topics and consolidated learning.
+
 
 
 
